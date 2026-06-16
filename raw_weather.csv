@@ -1,0 +1,53 @@
+city,year,month,avg_f
+Worcester,2026,6,69
+Worcester,2026,5,56
+Worcester,2026,4,47
+Worcester,2026,3,38
+Worcester,2026,2,24
+Worcester,2026,1,22
+Worcester,2025,12,27
+Worcester,2025,11,39
+Worcester,2025,10,52
+Worcester,2025,9,63
+Worcester,2025,8,67
+Worcester,2025,7,72
+Worcester,2025,6,67
+Medellin,2026,6,63
+Medellin,2026,5,65
+Medellin,2026,4,62
+Medellin,2026,3,62
+Medellin,2026,2,62
+Medellin,2026,1,61
+Medellin,2025,12,61
+Medellin,2025,11,62
+Medellin,2025,10,62
+Medellin,2025,9,63
+Medellin,2025,8,62
+Medellin,2025,7,63
+Medellin,2025,6,63
+San Diego,2026,6,66
+San Diego,2026,5,64
+San Diego,2026,4,63
+San Diego,2026,3,64
+San Diego,2026,2,60
+San Diego,2026,1,59
+San Diego,2025,12,59
+San Diego,2025,11,61
+San Diego,2025,10,65
+San Diego,2025,9,70
+San Diego,2025,8,69
+San Diego,2025,7,67
+San Diego,2025,6,65
+Malaga,2026,6,74
+Malaga,2026,5,67
+Malaga,2026,4,62
+Malaga,2026,3,56
+Malaga,2026,2,56
+Malaga,2026,1,53
+Malaga,2025,12,54
+Malaga,2025,11,60
+Malaga,2025,10,71
+Malaga,2025,9,75
+Malaga,2025,8,81
+Malaga,2025,7,80
+Malaga,2025,6,77
